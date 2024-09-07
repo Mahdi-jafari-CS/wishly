@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298093525136",
+    "project_id": "whish-8c9df",
+    "storage_bucket": "whish-8c9df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298093525136:android:f17fc0f39fd26f71454015",
+        "android_client_info": {
+          "package_name": "com.example.test_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwZDiLgDO93DGWNfM76piYFH4iCq3r5rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
